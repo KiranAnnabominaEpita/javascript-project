@@ -8,4 +8,8 @@ console.log("Hello World", 4 + 6, "Another log", "Kiran");
 console.warn("This is a warning");
 console.error("This is an error");
 
-// Variables in Javascript
+// 3 .Variables in Javascript
+// What are variables? - Containers to store data values.
+var num1 = 25;
+var num2 = 55;
+console.log(num1 + num2);
