@@ -114,4 +114,17 @@ var num8 = 64;
 // console.log(!false);
 // console.log(!true);
 
-console.log("Now Functions in Javascript");
+// 6. Functions in Javascript
+// console.log("Now Functions in Javascript");
+function avg(a, b) {
+  c = (a + b) / 2;
+  return c;
+}
+
+// DRY = Do not Repeat Yourself
+c1 = avg(4, 6);
+c2 = avg(14, 16);
+// console.log(c1, c2);
+
+// 7. Conditional Statements in Javascript
+console.log("Now Conditional in Javascript");
